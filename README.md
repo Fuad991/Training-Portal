@@ -1,3 +1,4 @@
-# Training-Day
-Graduation project
+# Graduation project
+Training day
+
 
