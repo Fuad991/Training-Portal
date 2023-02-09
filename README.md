@@ -1,4 +1,4 @@
 # Graduation project
-Training day
+Training Portal
 
 
